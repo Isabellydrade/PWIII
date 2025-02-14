@@ -1,5 +1,5 @@
 <?php
-    include './header.php';
+    include './header.php';   // require para, e include continua executando 
 ?>
 <div class="container">
     <div class="row d-flex justify-content-content-center">
@@ -31,6 +31,4 @@
     
 
 
-<?php
-    include './footer.php';
-?>
+<?php include './footer.php'; ?> 
